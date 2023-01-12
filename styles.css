@@ -835,3 +835,19 @@ video {
 .hover\:underline:hover {
   text-decoration-line: underline;
 }
+
+.myimage{
+  background-image: url(./assets/My\ project-1.png);
+  width: 150px;
+  height: 180px;
+  margin-left: 50px;
+  margin-top: -25px;
+  margin-bottom: -25px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.second{
+  margin-top: -10px;
+}
+
